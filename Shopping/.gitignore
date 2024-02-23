@@ -1,0 +1,11 @@
+[Bb]in/
+[Oo]bj/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.pdb
+*.exe
+*.dll
+packages/
+.vs/
